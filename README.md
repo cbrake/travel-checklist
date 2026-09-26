@@ -1,4 +1,4 @@
-# Packing checklist
+# Travel checklist
 
 One spreadsheet of camping and travel gear, and a script that prints a two-column checklist for a single trip type.
 
