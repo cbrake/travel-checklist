@@ -57,3 +57,19 @@
     ))
   }
 ]
+
+// Space to note what was missing, so the spreadsheet improves after each trip.
+#block(above: 1.6em, breakable: false)[
+  = Missed items
+  #text(size: 8.5pt, fill: luma(90))[
+    Write in anything you wished you had packed, then add it to the
+    spreadsheet before the next trip.
+  ]
+  #for _ in range(8) {
+    block(above: 1.5em, below: 0pt, grid(
+      columns: (1.2em, 1fr),
+      box-mark,
+      line(start: (0pt, 0.75em), length: 100%, stroke: 0.4pt + luma(150)),
+    ))
+  }
+]
