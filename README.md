@@ -17,6 +17,12 @@ list at a time.
 To add a trip type, add a column after Backpacking. The script picks it up by
 its header.
 
+## The Tools
+
+- **Libreoffice**: easy to update the list.
+- **Typst**: generates beautiful PDFs
+- **Script**: Converts the spreadsheet into a printable PDF for each list type.
+
 ## Printing a checklist
 
 Requires [LibreOffice](https://www.libreoffice.org/) and
