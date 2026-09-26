@@ -25,7 +25,7 @@ its header.
 
 ## Printing a checklist
 
-Requires [LibreOffice](https://www.libreoffice.org/) and
+Requires [LibreOffice](https://www.libreoffice.org/),
 [Typst](https://typst.app/) and a shell scripting environment (Linux, Mac, WSL).
 
 ```
