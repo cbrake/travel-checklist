@@ -11,9 +11,9 @@ script that prints a two-column checklist for a various trip types.
 `packing-list.ods` lists each item with its category and notes, and a column for
 each trip type: Weekend, Car camping, Kids camping, Overlanding, and
 Backpacking. Kids camping holds only the personal items each child packs for a
-car camping trip. An `x` in a column puts the item on that trip's checklist. Edit it in LibreOffice Calc; the
-header row stays in view as you scroll, and the column filters show one trip's
-list at a time.
+car camping trip. An `x` in a column puts the item on that trip's checklist.
+Edit it in LibreOffice Calc; the header row stays in view as you scroll, and the
+column filters show one trip's list at a time.
 
 To add a trip type, add a column after Backpacking. The script picks it up by
 its header.
