@@ -26,7 +26,7 @@ its header.
 ## Printing a checklist
 
 Requires [LibreOffice](https://www.libreoffice.org/) and
-[Typst](https://typst.app/).
+[Typst](https://typst.app/) and a shell scripting environment (Linux, Mac, WSL).
 
 ```
 ./checklist.sh backpacking        # checklist-backpacking.pdf
